@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+##WHAT A HAPPY DAY WITH MY WEBSITE
 
 You can use the [editor on GitHub](https://github.com/REBECCAwjf/REBACCA/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
